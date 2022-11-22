@@ -1,0 +1,20 @@
+{
+  "name": "system-information-collector",
+  "version": "1.0.0",
+  "description": "Collect system information for monitoring",
+  "main": "src/index.js",
+  "repository": "https://github.com/thedutchruben/system-information.git",
+  "author": "Ruben de Roos <deroosruben@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "sqlite3": "^5.1.2",
+    "systeminformation": "^5.14.4"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  }
+}

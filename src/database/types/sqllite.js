@@ -4,6 +4,5 @@ export default class SqlLite {
   constructor() {
     this.db = new sqlite3.Database("database.sqlite");
     // toto create tables
-    
   }
 }

@@ -6,7 +6,6 @@ const setupDatabase = async () => {
   switch (process.env.DATABASE.toLowerCase()) {
     case "sqllite":
       database = new SqlLite();
-      database.showTables();
       break;
     case "mysql":
       console.log("mysql");

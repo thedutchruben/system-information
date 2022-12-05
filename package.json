@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "sqlite3": "^5.1.2",
-    "systeminformation": "^5.14.4"
+    "systeminformation": "^5.16.1"
   },
   "scripts": {
     "start": "node src/index.js",

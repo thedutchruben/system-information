@@ -681,10 +681,10 @@ strip-ansi@^6.0.1:
   dependencies:
     ansi-regex "^5.0.1"
 
-systeminformation@^5.17.3:
-  version "5.17.3"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.17.3.tgz#16657d453f2316134a55bddf90ecb40402d49531"
-  integrity sha512-IAmnUJdeFUWqY+YneAWJ9rceTdRRIaTiwspvd1B6SG7yhqpxLrSosHgGZKiE8lcaBlBYpLQpY3BRLtus4n8PNQ==
+systeminformation@^5.18.1:
+  version "5.18.1"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.18.1.tgz#225a219b5c8a0e53c0e291d390309f53607f9a40"
+  integrity sha512-+4JZcjsYKh8J9fAQ6l0tT8TBck6mbm69+csfZbCUQvCcnCKID9l2JRMQ2ERZ7fznys12go1I9o7AnrLUkjFGeQ==
 
 tar@^6.0.2, tar@^6.1.11, tar@^6.1.2:
   version "6.1.12"
